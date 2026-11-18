@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Les images sont téléchargées par le notebook
+donnees/
